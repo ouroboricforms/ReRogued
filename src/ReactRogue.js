@@ -56,7 +56,7 @@ const ReactRogue = ({ width, height, tilesize }) => {
                 width={width * tilesize}
                 height={height * tilesize}
                 style={{
-                    border: '1px solid black, background: #A9A9A9'
+                    border: '1px solid black', background: '#A9A9A9'
                 }}
             ></canvas>
             <ul>
